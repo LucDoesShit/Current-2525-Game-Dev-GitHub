@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d78cd6d1d0df49a42802ea1531532b1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279317
+  packageName: '[HDRP] Day/Night Cycle'
+  packageVersion: 2.1
+  assetPath: Assets/Twisted Image/DayNightCycle/Profile/DayNightGlobalVolume.asset
+  uploadId: 752083

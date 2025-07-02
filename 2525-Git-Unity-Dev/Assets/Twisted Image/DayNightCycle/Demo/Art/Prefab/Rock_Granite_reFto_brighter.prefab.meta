@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4081bb83479ab3e419b496b879cc45d1
+timeCreated: 1511210958
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279317
+  packageName: '[HDRP] Day/Night Cycle'
+  packageVersion: 2.1
+  assetPath: Assets/Twisted Image/DayNightCycle/Demo/Art/Prefab/Rock_Granite_reFto_brighter.prefab
+  uploadId: 752083

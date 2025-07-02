@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9eab55f6bed31246a37414a35fafc7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279317
+  packageName: '[HDRP] Day/Night Cycle'
+  packageVersion: 2.1
+  assetPath: Assets/Twisted Image/DayNightCycle/Demo/Art/DiffusionProfiles/DayNightGrass.asset
+  uploadId: 752083

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b08c703012f60f1429bee8078c6a799d
+timeCreated: 1475312523
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279317
+  packageName: '[HDRP] Day/Night Cycle'
+  packageVersion: 2.1
+  assetPath: Assets/Twisted Image/DayNightCycle/Demo/Art/Material/Yosemite_01/Materials/Cliff_01_grass.mat
+  uploadId: 752083

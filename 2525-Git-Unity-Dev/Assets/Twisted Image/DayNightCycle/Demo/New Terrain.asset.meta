@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea21ba83c09e746439c4a3ad37ef8cef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279317
+  packageName: '[HDRP] Day/Night Cycle'
+  packageVersion: 2.1
+  assetPath: Assets/Twisted Image/DayNightCycle/Demo/New Terrain.asset
+  uploadId: 752083

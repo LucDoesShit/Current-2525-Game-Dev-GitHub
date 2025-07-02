@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d9d1a0af2ea9144bbbffa7e232c5981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279317
+  packageName: '[HDRP] Day/Night Cycle'
+  packageVersion: 2.1
+  assetPath: Assets/Twisted Image/DayNightCycle/Demo/Art/Prefab/Cliff_01_Prefab.prefab
+  uploadId: 752083
